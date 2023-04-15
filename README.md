@@ -1,6 +1,6 @@
 # Task_Managment_CPP_Terminal_Based
 
-This is a Task Managment basic project, based on terminal. Here I used C++ language and the main data structure as own created LinkedList. And some basic pre build data structure such as int, intArray, string etc.
+This is a Task Management basic project, based on terminal. Here I used C++ language and the main data structure as my own created LinkedList. And some basic pre-built data structures such as int, intArray, string etc.
 
 Here is a screenshot of output.
 
